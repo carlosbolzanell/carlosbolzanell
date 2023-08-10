@@ -1,6 +1,5 @@
-# 👋 Hey there!
+# 👋 Olá, bem vindo ao meu github! Me chamo Carlos Bolzanell
 
-### Olá! Me chamo Carlos Bolzanell
 Tenho 17 anos <br>
 Aprendiz de Programação de Sistemas WEG
 
