@@ -1,6 +1,6 @@
 # 👋 Olá, bem vindo ao meu github! Me chamo Carlos Bolzanell
 
-Tenho 17 anos <br>
+Tenho 18 anos <br>
 Aprendiz de Programação de Sistemas WEG
 
 # Contatos 📲
@@ -25,5 +25,5 @@ Aprendiz de Programação de Sistemas WEG
 
 # Frameworks
 
-[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]() [![tawilwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]() [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![tawilwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]() [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
