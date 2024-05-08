@@ -25,5 +25,5 @@ Aprendiz de Programação de Sistemas WEG
 
 # Frameworks
 
-[![tawilwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]() [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()[![next](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=nextjs&logoColor=61DAFB)]()
+[![tawilwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]() [![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
